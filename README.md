@@ -14,7 +14,7 @@
 ## Formação acadêmica/titulação
 
 * (2016 - Atual)
-**Graduação em andamento em Licenciatura Matemática**
+**Graduação em andamento em Licenciatura Matemática** <br>
 Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, IFNMG, Brasil. <br>
 **Disciplinas:**
     * **Período 1**
