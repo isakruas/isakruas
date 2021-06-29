@@ -1,87 +1,74 @@
 # Isak Paulo de Andrade Ruas
-> Bolsista de Iniciação Tecnológica do CNPq
+> **Bolsista de Iniciação Tecnológica do CNPq** <br>
+> Acadêmico do curso Licenciatura em Matemática ofertado no Instituto Federal do Norte de Minas (IFNMG) - Campus Januária, membro da [Câmara de Ensino, Pesquisa e Extensão (CEPE) do IFNMG](https://www.ifnmg.edu.br/camara-de-ensino-pesquisa-e-extensao/17-portal/institucional/1900-membros-da-cepe), membro do Colegiado das Licenciaturas (CL) do IFNMG, membro do [Colegiado Escolar dos Cursos de Graduação (CECG) do IFNMG - Campus Januária](https://www.ifnmg.edu.br/palestrantes/296-portal/januaria/januaria-cursos-superiores/bacharelado-em-engenharia-civil/13267-colegiado) e membro da Subcomissão da Comissão Própria de Avaliação (sCPA) do IFNMG - Campus Januária. Fez aperfeiçoamento em Fundamentos Teóricos do Pensamento Matemático, Robótica para Jovens, Cálculo de Funções e Geometria Vetorial pela Faculdades Metropolitanas de São Paulo (FAMESP) e aperfeiçoamento em Inglês Básico pelo IFNMG - Campus Januária. Fundador do [Nrọlabs Desenvolvimento de Softwares](https://nrolabs.com/), Fundador da plataforma [Astrofotografia Brasil](https://ast.fot.br/), Co-fundador da plataforma [Banco de Questões de Matemática](https://bq.mat.br/), Co-fundador da plataforma [VidMatBr](https://vid.mat.br/). Atualmente é bolsista do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI), conforme [edital nº 76, de 20 de julho de 2020, do IFNMG](https://www.ifnmg.edu.br/programas-jan/pibic/pibic-2020) - Campus Januária, com projeto intitulado **Desenvolvimento de um aplicativo mobile para elaboração de avaliações de matemática**, registrado no Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) sob número 145794/2020-2. Em 2019 iniciou o Trabalho de Conclusão de Curso (Graduação em Matemática) intitulado **[Desenvolvimento e validação de um sistema hipermídia para elaboração de avaliações de matemática](https://github.com/isakruas/tcc/blob/master/tcc.pdf)** sob orientação do [Prof. Dr. Josué Antunes de Macêdo](http://lattes.cnpq.br/7632858444903409).
+
+
 ## Identificação
  **Nome:** Isak Paulo de Andrade Ruas
  
- **Nome em citações bibliográficas:** <br>
+ **Nome em citações bibliográficas:**
  * RUAS, I. P. A.;
  * PAULO DE ANDRADE RUAS, ISAK;
  * RUAS, ISAK PAULO DE ANDRADE
  
 ## Formação acadêmica/titulação
 
-* (2016 - Atual) <br>
-**Graduação em andamento em Licenciatura Matemática** <br>
+* (2016 - Atual)
+**Graduação em andamento em Licenciatura Matemática**
 Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, IFNMG, Brasil. <br>
 **Disciplinas:**
-
-    #### Período 1
-    
-    * Geometria Euclidiana Plana (Carga Horária: 120h)
-    * Prática Pedagógica I: Introdução à Prática Docente (Carga Horária: 40h)
-    * Introdução à Informática (Carga Horária: 40h)
-    * Fundamentos de Matemática Elementar I (Carga Horária: 120h)
-    * Português Instrumental I (Carga Horária: 40h)
-    * Métodos e Técnicas de Pesquisa (Carga Horária: 40h)
-    
-    #### Período 2
-    
-    * Geometria Analítica I (Carga Horária: 80h)
-    * Fundamentos de Matemática Elementar II (Carga Horária: 120h)
-    * Geometria Espacial (Carga Horária: 80h)
-    * Português Instrumental II (Carga Horária: 40h)
-    * Fundamentos Filosóficos da Educação (Carga Horária: 40h)
-    * Prática Pedagógica II: Ensino de Ciências (Carga Horária: 40h)
-    
-    #### Período 3
-    
-    * Geometria Analítica II (Carga Horária: 80h)
-    * Cálculo Diferencial e Integral I (Carga Horária: 120h)
-    * Álgebra Linear I (Carga Horária: 80h)
-    * Psicologia do Desenvolvimento e Aprendizagem (Carga Horária: 80h)
-    * Prática Pedagógica III: Planejamento e Prática (Carga Horária: 40h)
-    
-    #### Período 4
-    
-    * Cálculo Diferencial e Integral II (Carga Horária: 80h)
-    * Álgebra Linear II (Carga Horária: 80h)
-    * Construções Geométricas (Carga Horária: 40h)
-    * Didática I (Carga Horária: 40h)
-    * Educação, Sociedade e Trabalho (Carga Horária: 40h)
-    * Prática Pedagógica IV: Educação Matemática (Carga Horária: 40h)
-    
-    #### Período 5
-    
-    * Didática II (Carga Horária: 40h)
-    * Cálculo Diferencial e Integral III (Carga Horária: 80h)
-    * Introdução à Teoria Aritmética dos Números (Carga Horária: 80h)
-    * Física II (Carga Horária: 40h)
-    * Estatística I (Carga Horária: 40h)
-    * Organização e Gestão Pedagógica (Carga Horária: 40h)
-    * Prática Pedagógica V: Lem I - Laboratório de Educação Matemática I (Carga Horária: 40h)
-    * Estágio Supervisionado I (Carga Horária: 120h)
-    
-    #### Período 6
-    
-    * Estatística II (Carga Horária: 80h)
-    * Equações Diferenciais Ordinárias (Carga Horária: 40h)
-    * Educação Para a Diversidade (Carga Horária: 40h)
-    * Produção e Gestão do Conhecimento (Carga Horária: 40h)
-    * Produção e Gestão do Conhecimento (Carga Horária: 40h)
-    * Prática Pedagógica Vi: L. E. M. II - Laboratório de Educação Matemática II (Carga Horária: 40h)
-
-    #### Período 7
-    
-    * Cálculo Numérico (Carga Horária: 80h)
-    * Educação Profissional (Carga Horária: 80h)
-    * Prática Pedagógica VII: LEM III - Laboratório de Educação Matemática III (Carga Horária: 40h)
-    * Trabalho de Conclusão de Curso - TCC I (Carga Horária: 40h)
-    
-    #### Período 8
-    
-    * Matemática Financeira (Carga Horária: 40h)
-    * Funções de uma Variável Complexa (Carga Horária: 80h)
-    * Prática Pedagógica VIII: LEM IV - Laboratório de Educação Matemática IV (Carga Horária: 40h)
+    * **Período 1**
+        * Geometria Euclidiana Plana (Carga Horária: 120h)
+        * Prática Pedagógica I: Introdução à Prática Docente (Carga Horária: 40h)
+        * Introdução à Informática (Carga Horária: 40h)
+        * Fundamentos de Matemática Elementar I (Carga Horária: 120h)
+        * Português Instrumental I (Carga Horária: 40h)
+        * Métodos e Técnicas de Pesquisa (Carga Horária: 40h)
+    * **Período 2**
+        * Geometria Analítica I (Carga Horária: 80h)
+        * Fundamentos de Matemática Elementar II (Carga Horária: 120h)
+        * Geometria Espacial (Carga Horária: 80h)
+        * Português Instrumental II (Carga Horária: 40h)
+        * Fundamentos Filosóficos da Educação (Carga Horária: 40h)
+        * Prática Pedagógica II: Ensino de Ciências (Carga Horária: 40h)
+    * **Período 3**
+        * Geometria Analítica II (Carga Horária: 80h)
+        * Cálculo Diferencial e Integral I (Carga Horária: 120h)
+        * Álgebra Linear I (Carga Horária: 80h)
+        * Psicologia do Desenvolvimento e Aprendizagem (Carga Horária: 80h)
+        * Prática Pedagógica III: Planejamento e Prática (Carga Horária: 40h)
+    * **Período 4**
+        * Cálculo Diferencial e Integral II (Carga Horária: 80h)
+        * Álgebra Linear II (Carga Horária: 80h)
+        * Construções Geométricas (Carga Horária: 40h)
+        * Didática I (Carga Horária: 40h)
+        * Educação, Sociedade e Trabalho (Carga Horária: 40h)
+        * Prática Pedagógica IV: Educação Matemática (Carga Horária: 40h)
+    * **Período 5**
+        * Didática II (Carga Horária: 40h)
+        * Cálculo Diferencial e Integral III (Carga Horária: 80h)
+        * Introdução à Teoria Aritmética dos Números (Carga Horária: 80h)
+        * Física II (Carga Horária: 40h)
+        * Estatística I (Carga Horária: 40h)
+        * Organização e Gestão Pedagógica (Carga Horária: 40h)
+        * Prática Pedagógica V: Lem I - Laboratório de Educação Matemática I (Carga Horária: 40h)
+        * Estágio Supervisionado I (Carga Horária: 120h)
+    * **Período 6**
+        * Estatística II (Carga Horária: 80h)
+        * Equações Diferenciais Ordinárias (Carga Horária: 40h)
+        * Educação Para a Diversidade (Carga Horária: 40h)
+        * Produção e Gestão do Conhecimento (Carga Horária: 40h)
+        * Produção e Gestão do Conhecimento (Carga Horária: 40h)
+        * Prática Pedagógica Vi: L. E. M. II - Laboratório de Educação Matemática II (Carga Horária: 40h)
+    * **Período 7**
+        * Cálculo Numérico (Carga Horária: 80h)
+        * Educação Profissional (Carga Horária: 80h)
+        * Prática Pedagógica VII: LEM III - Laboratório de Educação Matemática III (Carga Horária: 40h)
+        * Trabalho de Conclusão de Curso - TCC I (Carga Horária: 40h)
+    * **Período 8**
+        * Matemática Financeira (Carga Horária: 40h)
+        * Funções de uma Variável Complexa (Carga Horária: 80h)
+        * Prática Pedagógica VIII: LEM IV - Laboratório de Educação Matemática IV (Carga Horária: 40h)
 
 * (2019 - 2019) <br>
 **Aperfeiçoamento em Inglês Básico** (Carga Horária: 200h). <br>
