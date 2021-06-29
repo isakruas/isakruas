@@ -11,8 +11,77 @@
 ## Formação acadêmica/titulação
 
 * (2016 - Atual) <br>
-**Graduação em andamento em Licenciatura Matemática** (Carga Horária: 200h). <br>
+**Graduação em andamento em Licenciatura Matemática** <br>
 Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, IFNMG, Brasil. <br>
+**Disciplinas:**
+
+    #### Período 1
+    
+    * Geometria Euclidiana Plana (Carga Horária: 120h)
+    * Prática Pedagógica I: Introdução à Prática Docente (Carga Horária: 40h)
+    * Introdução à Informática (Carga Horária: 40h)
+    * Fundamentos de Matemática Elementar I (Carga Horária: 120h)
+    * Português Instrumental I (Carga Horária: 40h)
+    * Métodos e Técnicas de Pesquisa (Carga Horária: 40h)
+    
+    #### Período 2
+    
+    * Geometria Analítica I (Carga Horária: 80h)
+    * Fundamentos de Matemática Elementar II (Carga Horária: 120h)
+    * Geometria Espacial (Carga Horária: 80h)
+    * Português Instrumental II (Carga Horária: 40h)
+    * Fundamentos Filosóficos da Educação (Carga Horária: 40h)
+    * Prática Pedagógica II: Ensino de Ciências (Carga Horária: 40h)
+    
+    #### Período 3
+    
+    * Geometria Analítica II (Carga Horária: 80h)
+    * Cálculo Diferencial e Integral I (Carga Horária: 120h)
+    * Álgebra Linear I (Carga Horária: 80h)
+    * Psicologia do Desenvolvimento e Aprendizagem (Carga Horária: 80h)
+    * Prática Pedagógica III: Planejamento e Prática (Carga Horária: 40h)
+    
+    #### Período 4
+    
+    * Cálculo Diferencial e Integral II (Carga Horária: 80h)
+    * Álgebra Linear II (Carga Horária: 80h)
+    * Construções Geométricas (Carga Horária: 40h)
+    * Didática I (Carga Horária: 40h)
+    * Educação, Sociedade e Trabalho (Carga Horária: 40h)
+    * Prática Pedagógica IV: Educação Matemática (Carga Horária: 40h)
+    
+    #### Período 5
+    
+    * Didática II (Carga Horária: 40h)
+    * Cálculo Diferencial e Integral III (Carga Horária: 80h)
+    * Introdução à Teoria Aritmética dos Números (Carga Horária: 80h)
+    * Física II (Carga Horária: 40h)
+    * Estatística I (Carga Horária: 40h)
+    * Organização e Gestão Pedagógica (Carga Horária: 40h)
+    * Prática Pedagógica V: Lem I - Laboratório de Educação Matemática I (Carga Horária: 40h)
+    * Estágio Supervisionado I (Carga Horária: 120h)
+    
+    #### Período 6
+    
+    * Estatística II (Carga Horária: 80h)
+    * Equações Diferenciais Ordinárias (Carga Horária: 40h)
+    * Educação Para a Diversidade (Carga Horária: 40h)
+    * Produção e Gestão do Conhecimento (Carga Horária: 40h)
+    * Produção e Gestão do Conhecimento (Carga Horária: 40h)
+    * Prática Pedagógica Vi: L. E. M. II - Laboratório de Educação Matemática II (Carga Horária: 40h)
+
+    #### Período 7
+    
+    * Cálculo Numérico (Carga Horária: 80h)
+    * Educação Profissional (Carga Horária: 80h)
+    * Prática Pedagógica VII: LEM III - Laboratório de Educação Matemática III (Carga Horária: 40h)
+    * Trabalho de Conclusão de Curso - TCC I (Carga Horária: 40h)
+    
+    #### Período 8
+    
+    * Matemática Financeira (Carga Horária: 40h)
+    * Funções de uma Variável Complexa (Carga Horária: 80h)
+    * Prática Pedagógica VIII: LEM IV - Laboratório de Educação Matemática IV (Carga Horária: 40h)
 
 * (2019 - 2019) <br>
 **Aperfeiçoamento em Inglês Básico** (Carga Horária: 200h). <br>
@@ -112,7 +181,7 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
     * Iago Marcelino de oliveira - Integrante.
     >  **Descrição:** A inclusão dos recursos tecnológicos está cada vez mais presente no ambiente escolar das diversas modalidades de ensino. Dentre estes, um recurso bastante utilizado pelos estudantes é a vídeoaula, encontradas em sua maioria no site de compartilhamento de vídeos YouTube. Nesta plataforma, qualquer pessoa pode postar conteúdo e os professores estão utilizando-o cada vez mais com a finalidade de renovar a prática pedagógica para aproximar o ensino do aluno moderno. Deste modo, o presente projeto tem como objetivo principal alimentar o site https://vid.mat.br/ e o canal do YouTube Vid.Mat com resoluções de exercícios das disciplinas de Análise Real e Teoria dos Números no formato de vídeoaulas elaboradas pelos participantes. Além disso, serão disponibilizados materiais de apoio voltados ao ensino da matemática e a duração do projeto será de um ano, sendo que todo o orçamento necessário para a execução deste será por conta da equipe técnica. Portanto, espera-se que o material disponibilizado contribua para a formação dos alunos além de dar suporte ao professor que pretende utilizar este novo recurso tecnológico bastante popular entre os alunos da atualidade.
 
-## Projetos de desenvolvimento
+## Projetos de desenvolvimento e/ou inovação 
 
 * (2020 - 2020) <br>
 **Desenvolvimento de um sistema hipermídia para elaboração de avaliações de matemática** (Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa) <br> 
