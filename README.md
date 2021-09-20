@@ -40,6 +40,7 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
     * **Período 4**
         * Cálculo Diferencial e Integral II (Carga Horária: 80h)
         * Álgebra Linear II (Carga Horária: 80h)
+        * Física I (Carga Horária: 80h)
         * Construções Geométricas (Carga Horária: 40h)
         * Didática I (Carga Horária: 40h)
         * Educação, Sociedade e Trabalho (Carga Horária: 40h)
