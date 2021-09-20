@@ -87,6 +87,10 @@ Faculdades Metropolitanas de São Paulo, FAMESP, Brasil. <br>
 Faculdades Metropolitanas de São Paulo, FAMESP, Brasil. <br>
 
 ## Formação Complementar
+ 
+* (2021 - 2021) <br>
+**Padrões de Projeto (Design Patterns) com Python** (Carga Horária: 11h). <br>
+Geek University, Brasil. <br>
 
 * (2020 - 2021) <br>
 **Programação em Python do básico ao avançado** (Carga Horária: 64h). <br>
