@@ -1,5 +1,4 @@
 # Isak Paulo de Andrade Ruas
-> **Bolsista de Iniciação Tecnológica do CNPq** <br>
 > Acadêmico do curso Licenciatura em Matemática ofertado no Instituto Federal do Norte de Minas (IFNMG) - Campus Januária, membro da [Câmara de Ensino, Pesquisa e Extensão (CEPE) do IFNMG](https://www.ifnmg.edu.br/camara-de-ensino-pesquisa-e-extensao/17-portal/institucional/1900-membros-da-cepe), membro do Colegiado das Licenciaturas (CL) do IFNMG, membro do [Colegiado Escolar dos Cursos de Graduação (CECG) do IFNMG - Campus Januária](https://www.ifnmg.edu.br/palestrantes/296-portal/januaria/januaria-cursos-superiores/bacharelado-em-engenharia-civil/13267-colegiado) e membro da Subcomissão da Comissão Própria de Avaliação (sCPA) do IFNMG - Campus Januária. Fez aperfeiçoamento em Fundamentos Teóricos do Pensamento Matemático, Robótica para Jovens, Cálculo de Funções e Geometria Vetorial pela Faculdades Metropolitanas de São Paulo (FAMESP) e aperfeiçoamento em Inglês Básico pelo IFNMG - Campus Januária. Fundador do [Nrọlabs Desenvolvimento de Softwares](https://nrolabs.com/), Fundador da plataforma [Astrofotografia Brasil](https://ast.fot.br/), Co-fundador da plataforma [Banco de Questões de Matemática](https://bq.mat.br/), Co-fundador da plataforma [VidMatBr](https://vid.mat.br/). Atualmente é bolsista do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI), conforme [edital nº 76, de 20 de julho de 2020, do IFNMG](https://www.ifnmg.edu.br/programas-jan/pibic/pibic-2020) - Campus Januária, com projeto intitulado **Desenvolvimento de um aplicativo mobile para elaboração de avaliações de matemática**, registrado no Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) sob número 145794/2020-2. Em 2019 iniciou o Trabalho de Conclusão de Curso (Graduação em Matemática) intitulado **[Desenvolvimento e validação de um sistema hipermídia para elaboração de avaliações de matemática](https://github.com/isakruas/tcc/blob/master/tcc.pdf)** sob orientação do [Prof. Dr. Josué Antunes de Macêdo](http://lattes.cnpq.br/7632858444903409).
 
 
@@ -90,7 +89,7 @@ Faculdades Metropolitanas de São Paulo, FAMESP, Brasil. <br>
 ## Formação Complementar
 
 * (2021 - 2021) <br>
-**Programação Concorrente e Assíncrona com Python Programação Concorrente e Assíncrona com Python** (Carga Horária: 8h). <br>
+**Programação Concorrente e Assíncrona com Python** (Carga Horária: 8h). <br>
 Geek University, Brasil. <br>
 
 * (2021 - 2021) <br>
