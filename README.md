@@ -88,7 +88,11 @@ Faculdades Metropolitanas de São Paulo, FAMESP, Brasil. <br>
 Faculdades Metropolitanas de São Paulo, FAMESP, Brasil. <br>
 
 ## Formação Complementar
- 
+
+* (2021 - 2021) <br>
+**Programação Concorrente e Assíncrona com Python Programação Concorrente e Assíncrona com Python** (Carga Horária: 8h). <br>
+Geek University, Brasil. <br>
+
 * (2021 - 2021) <br>
 **Padrões de Projeto (Design Patterns) com Python** (Carga Horária: 11h). <br>
 Geek University, Brasil. <br>
