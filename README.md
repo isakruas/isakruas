@@ -1,6 +1,5 @@
 # Isak Paulo de Andrade Ruas
-> Acadêmico do curso Licenciatura em Matemática ofertado no Instituto Federal do Norte de Minas (IFNMG) - Campus Januária, membro da [Câmara de Ensino, Pesquisa e Extensão (CEPE) do IFNMG](https://www.ifnmg.edu.br/camara-de-ensino-pesquisa-e-extensao/17-portal/institucional/1900-membros-da-cepe), membro do Colegiado das Licenciaturas (CL) do IFNMG, membro do [Colegiado Escolar dos Cursos de Graduação (CECG) do IFNMG - Campus Januária](https://www.ifnmg.edu.br/palestrantes/296-portal/januaria/januaria-cursos-superiores/bacharelado-em-engenharia-civil/13267-colegiado) e membro da Subcomissão da Comissão Própria de Avaliação (sCPA) do IFNMG - Campus Januária. Fez aperfeiçoamento em Fundamentos Teóricos do Pensamento Matemático, Robótica para Jovens, Cálculo de Funções e Geometria Vetorial pela Faculdades Metropolitanas de São Paulo (FAMESP) e aperfeiçoamento em Inglês Básico pelo IFNMG - Campus Januária. Fundador do [Nrọlabs Desenvolvimento de Softwares](https://nrolabs.com/), Fundador da plataforma [Astrofotografia Brasil](https://ast.fot.br/), Co-fundador da plataforma [Banco de Questões de Matemática](https://bq.mat.br/), Co-fundador da plataforma [VidMatBr](https://vid.mat.br/). Atualmente é bolsista do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI), conforme [edital nº 76, de 20 de julho de 2020, do IFNMG](https://www.ifnmg.edu.br/programas-jan/pibic/pibic-2020) - Campus Januária, com projeto intitulado **Desenvolvimento de um aplicativo mobile para elaboração de avaliações de matemática**, registrado no Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) sob número 145794/2020-2. Em 2019 iniciou o Trabalho de Conclusão de Curso (Graduação em Matemática) intitulado **[Desenvolvimento e validação de um sistema hipermídia para elaboração de avaliações de matemática](https://github.com/isakruas/tcc/blob/master/tcc.pdf)** sob orientação do [Prof. Dr. Josué Antunes de Macêdo](http://lattes.cnpq.br/7632858444903409).
-
+> Entusiasta das Tecnologias da Informação e Comunicação, buscando sempre se aperfeiçoar sobre as mais variadas tecnologias e métodos existentes. Apaixonado por astrofotografias, matemática e desenvolvimento de *softwares*. Tem interesse em frameworks como Django, FastAPI, Drogon e Starlette; e linguagens de programação com Python, C++ e C. Criador dos módulos Python: ripda - mini framework para desenvolvimento de aplicações baseadas em blockchain - e ecutils - biblioteca para operações matemáticas sobre curvas elípticas.
 
 ## Identificação
  **Nome:** Isak Paulo de Andrade Ruas
@@ -9,7 +8,7 @@
  * RUAS, I. P. A.;
  * PAULO DE ANDRADE RUAS, ISAK;
  * RUAS, ISAK PAULO DE ANDRADE
- 
+
 ## Formação acadêmica/titulação
 
 * (2016 - Atual)
@@ -87,6 +86,13 @@ Faculdades Metropolitanas de São Paulo, FAMESP, Brasil. <br>
 Faculdades Metropolitanas de São Paulo, FAMESP, Brasil. <br>
 
 ## Formação Complementar
+* (2022 - 2022) <br>
+**SQL Alckemy: Essencial** (Carga Horária: 15h). <br>
+Geek University, Brasil. <br>
+
+* (2021 - 2021) <br>
+**Docker Essencial para o Desenvolvedor** (Carga Horária: 8.5h). <br>
+Geek University, Brasil. <br>
 
 * (2021 - 2021) <br>
 **Programação Concorrente e Assíncrona com Python** (Carga Horária: 8h). <br>
@@ -121,6 +127,10 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
 Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, IFNMG, Brasil. <br>
 
 ## Atuação Profissional
+* (2021 - Atual) <br>
+**JobConvo: Software de Recrutamento e Seleção** (Vínculo: Empregado, Enquadramento Funcional: Analista de Redes e de Comunicação de Dados: 40h). <br>
+**Outras informações:** <br>
+    > Responsável pelo desenvolvimento e manutenção de aplicação Python/Django.
 
 * (2019 - 2019) <br>
 **Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, IFNMG, Brasil** (Vínculo: Bolsista, Enquadramento Funcional: Monitor, Carga horária semanal: 15h). <br>
@@ -185,7 +195,7 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
     * Isak Paulo de Andrade Ruas - Integrante
     >  **Descrição:** A internet revolucionou a maneira como se transmite informações e comunicações, possibilita uma maior interatividade entre as pessoas e este aspecto pode ser explorado em processos educacionais. Umas das possíveis maneiras de se utilizar a internet como ferramenta facilitadora em processos educacionais é através da elaboração de sites especializados. Existe uma variedade deles destinados a facilitarem a aprendizagem do aluno, seja com conteúdos em vídeo, texto ou animações. Nota-se porém, que é pouco explorado a existência de sites especializados com o objetivo de auxiliar professores de matemática a elaborarem seus conteúdos didáticos. Não se percebe na rede mundial de computadores uma ferramenta gratuita com esta finalidade. Neste sentido, torna-se necessário desenvolver um sistema gratuito, com critérios ergonômicos, através da metodologia da pesquisa designer educacional, que possibilite ao professor de matemática dos anos finais do ensino fundamental e ensino médio a elaborar atividades avaliativas, que seja acessível on-line pela internet. Espera-se assim fornecer aos professores e professoras de matemática dos anos finais do ensino fundamental e ensino médio um sistema gratuito e acessível pela internet, que facilite a elaboração de atividades avaliativas de matemática.
 
-* (2020 - Atual) <br>
+* (2020 - 2021) <br>
 **Desenvolvimento de um aplicativo mobile para elaboração de avaliações de matemática** (Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa) <br> 
 **Integrantes:**
     * Josué Antunes de Macêdo - Coordenador 
