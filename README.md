@@ -1,5 +1,10 @@
 # Isak Paulo de Andrade Ruas
-> Entusiasta das Tecnologias da Informação e Comunicação, buscando sempre se aperfeiçoar sobre as mais variadas tecnologias e métodos existentes. Apaixonado por astrofotografias, matemática e desenvolvimento de *softwares*. Tem interesse em frameworks como Django, FastAPI, Drogon e Starlette; e linguagens de programação com Python, C++ e C. Criador dos módulos Python: ripda - mini framework para desenvolvimento de aplicações baseadas em blockchain - e ecutils - biblioteca para operações matemáticas sobre curvas elípticas.
+
+> Sou um entusiasta das Tecnologias da Informação e Comunicação, constantemente em busca de aprimoramento e atualização nas mais diversas tecnologias e metodologias. Minha paixão abrange astrofotografia, matemática e desenvolvimento de software.
+> Tenho interesse profundo em frameworks como [Django](https://www.djangoproject.com/), [Gin](https://gin-gonic.com/), [Gensim](https://radimrehurek.com/gensim/) e [Starlette](https://www.starlette.io/), e sou adepto de linguagens de programação como [Python](https://www.python.org/), [Go](https://golang.org/) e [C](https://en.wikipedia.org/wiki/C_(programming_language)). Além disso, sou o criador dos módulos Python [ripda](https://pypi.org/project/ripda/) — um mini framework para desenvolvimento de aplicações baseadas em blockchain — e [ecutils](https://pypi.org/project/ecutils/) — uma biblioteca para operações matemáticas em curvas elípticas.
+> Minha jornada é marcada por uma constante exploração de novas ferramentas e técnicas para resolver desafios e criar soluções inovadoras.
+
+
 
 ## Identificação
  **Nome:** Isak Paulo de Andrade Ruas
