@@ -1,10 +1,10 @@
 # Isak Paulo de Andrade Ruas
 
-> Sou um entusiasta das Tecnologias da Informação e Comunicação, constantemente em busca de aprimoramento e atualização nas mais diversas tecnologias e metodologias. Minha paixão abrange astrofotografia, matemática e desenvolvimento de software.
-> Tenho interesse profundo em frameworks como [Django](https://www.djangoproject.com/), [Gin](https://gin-gonic.com/), [Gensim](https://radimrehurek.com/gensim/) e [Starlette](https://www.starlette.io/), e sou adepto de linguagens de programação como [Python](https://www.python.org/), [Go](https://golang.org/) e [C](https://en.wikipedia.org/wiki/C_(programming_language)). Além disso, sou o criador dos módulos Python [ripda](https://pypi.org/project/ripda/) — um mini framework para desenvolvimento de aplicações baseadas em blockchain — e [ecutils](https://pypi.org/project/ecutils/) — uma biblioteca para operações matemáticas em curvas elípticas.
-> Minha jornada é marcada por uma constante exploração de novas ferramentas e técnicas para resolver desafios e criar soluções inovadoras.
-
-
+> Sou um entusiasta das Tecnologias da Informação e Comunicação, constantemente em busca de aprimoramento e atualização nas mais diversas tecnologias e metodologias. Minha paixão abrange matemática, infraestrutura de sistemas e desenvolvimento de soluções inovadoras.
+> 
+> Tenho interesse profundo em tecnologias como [Kubernetes](https://kubernetes.io/), [Terraform](https://www.terraform.io/), observabilidade de sistemas e automação de infraestrutura, além de experiência com linguagens como [Go](https://golang.org/) e [Python](https://www.python.org/). Sou o criador do módulo Python [ecutils](https://pypi.org/project/ecutils/) — uma biblioteca para operações matemáticas em curvas elípticas.
+> 
+> Minha jornada é marcada por uma constante exploração de novas ferramentas e técnicas para resolver desafios e criar soluções robustas e escaláveis.
 
 ## Identificação
  **Nome:** Isak Paulo de Andrade Ruas
@@ -15,9 +15,11 @@
  * RUAS, ISAK PAULO DE ANDRADE
 
 ## Formação acadêmica/titulação
-
-* (2016 - Atual)
-**Graduação em andamento em Licenciatura Matemática** <br>
+* (2025 - Atual)
+**Tecnologo em Gestão da Tecnologia da Informação** <br>
+Pontifícia Universidade Católica do Rio Grande do Sul, PUCRS, Brasil. <br>
+* (2016 - 2023)
+**Graduação em Licenciatura Matemática** <br>
 Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, IFNMG, Brasil. <br>
 **Disciplinas:**
     * **Período 1**
@@ -55,15 +57,14 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
         * Física II (Carga Horária: 40h)
         * Estatística I (Carga Horária: 40h)
         * Organização e Gestão Pedagógica (Carga Horária: 40h)
-        * Prática Pedagógica V: Lem I - Laboratório de Educação Matemática I (Carga Horária: 40h)
-        * Estágio Supervisionado I (Carga Horária: 120h)
+        * Prática Pedagógica V: LEM I - Laboratório de Educação Matemática I (Carga Horária: 40h)
+        * Estágio Supervisionado I (Carga Horária: 40h)
     * **Período 6**
         * Estatística II (Carga Horária: 80h)
         * Equações Diferenciais Ordinárias (Carga Horária: 40h)
-        * Educação Para a Diversidade (Carga Horária: 40h)
+        * Educação para a Diversidade (Carga Horária: 40h)
         * Produção e Gestão do Conhecimento (Carga Horária: 40h)
-        * Produção e Gestão do Conhecimento (Carga Horária: 40h)
-        * Prática Pedagógica Vi: L. E. M. II - Laboratório de Educação Matemática II (Carga Horária: 40h)
+        * Prática Pedagógica VI: L. E. M. II - Laboratório de Educação Matemática II (Carga Horária: 40h)
     * **Período 7**
         * Cálculo Numérico (Carga Horária: 80h)
         * Educação Profissional (Carga Horária: 80h)
@@ -72,7 +73,11 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
     * **Período 8**
         * Matemática Financeira (Carga Horária: 40h)
         * Funções de uma Variável Complexa (Carga Horária: 80h)
+        * História da Matemática (Carga Horária: 80h)
         * Prática Pedagógica VIII: LEM IV - Laboratório de Educação Matemática IV (Carga Horária: 40h)
+        * Trabalho de Conclusão de Curso - TCC II (Carga Horária: 40h)
+    * **Outras Disciplinas**
+        * Atividade Acadêmico-Científico-Culturais (Carga Horária: 240h)
 
 * (2019 - 2019) <br>
 **Aperfeiçoamento em Inglês Básico** (Carga Horária: 200h). <br>
@@ -132,7 +137,11 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
 Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, IFNMG, Brasil. <br>
 
 ## Atuação Profissional
-* (2021 - Atual) <br>
+* (2024 - Atual) <br>
+**Pontotel: Plataforma de controle de ponto online** (Vínculo: Empregado, Enquadramento Funcional: Analista de Op. e Confiabilidade da Plataforma: 40h). <br>
+**Outras informações:** <br>
+    > Responsabilidades: - Executar a manutenção, aplicar patches e realizar atualizações na infraestrutura; - Gerenciar clusters Kubernetes e manter pacotes Helm; - Trabalhar na observabilidade do sistema Pontotel, trabalhando com sentry (ou outro APM) para melhoria de latência e throughput; - Criar e acompanhar indicadores de performance, de estabilidade da plataforma, e tomar medidas corretivas quando a estabilidade estiver ameaçada; - Atuar de maneira abrangente na pipeline de CI/CD, visando otimizar e automatizar os processos relacionados ao desenvolvimento e implementação de software; - Administrar bancos de dados, garantindo seu desempenho, segurança, conectividade, backups, além de criar índices, procedimentos, views e modelagem; - Criar painéis de indicadores, políticas e sistemas de backup e desenvolvimento; - Gerenciar e configurar ferramentas de monitoramento de desempenho de aplicativos (ex: Sentry, Prometheus, Grafana); - Monitorar e otimizar o uso da infraestrutura da aplicação; - Atualizar e criar scripts (terraform e outros) dos nossos ambientes.
+* (2021 - 2024) <br>
 **JobConvo: Software de Recrutamento e Seleção** (Vínculo: Empregado, Enquadramento Funcional: Analista de Redes e de Comunicação de Dados: 40h). <br>
 **Outras informações:** <br>
     > Responsável pelo desenvolvimento e manutenção de aplicação Python/Django.
@@ -216,8 +225,14 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
 
 * 2018 <br>
     [3º lugar na categoria Ciências Exatas e da Terra](https://www.ifnmg.edu.br/noticias-jan/noticias-2018/18308-participacao-no-sic-2018-demonstra-grandes-avancos-dos-estudantes-do-campus-januaria-na-area-da-pesquisa) no VII Seminário de Iniciação Científica do IFNMG, realizado no município de Araçuaí (MG) entre os dias 24 e 27 de Abril de 2018, VII Seminário de Iniciação Científica do IFNMG.
+
 ## Produções
 ### Produção bibliográfica
+
+#### Trabalhos de conclusão de curso
+
+* RUAS, Isak Paulo de Andrade. [*Desvendando a criptografia de curvas elípticas*: propriedades, métodos e implementação](https://github.com/isakruas/tcc-elliptic-curve-cryptography/blob/master/Documentos/Monografia.pdf). 2024. Trabalho de Conclusão de Curso (Graduação em Licenciatura em Matemática) – Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais, Januária, 2024.
+
 #### Artigos completos publicados em periódicos
 
 * RUAS, ISAK PAULO DE ANDRADE; MACÊDO, JOSUÉ ANTUNES DE . [O USO DO LABORATÓRIO DE INFORMÁTICA NO ENSINO DE MATEMÁTICA NAS ESCOLAS DE JANUÁRIA](http://dx.doi.org/10.5335/rbecm.v3i1.9955). Revista Brasileira de Ensino de Ciências e Matemática, v. 3, p. 279-299, 2020.
@@ -261,5 +276,6 @@ Instituto Federal de Educação Ciência e Tecnologia do Norte de Minas Gerais, 
 * II Semana Integrada de Ensino, Pesquisa e Extensão. UTILIZAÇÃO DO LABORATÓRIO DE INFORMÁTICA, SOFTWARES E/OU APLICATIVOS EDUCACIONAIS NA PRÁTICA DOCENTE DOS PROFESSORES E PROFESSORAS DE MATEMÁTICA DE ONZE ESCOLAS PÚBLICAS DO MUNICÍPIO DE JANUÁRIA (MG). 2018. (Simpósio)
 * VII Seminário de Iniciação Científica do IFNMG, I Seminário da PPGVet e V Prospectar. ANÁLISE DA ABORDAGEM UTILIZADA NOS LIVROS DIDÁTICOS DA REDE PUBLICA PARA O ENSINO DOS PRODUTOS NOTÁVEIS DE BINÔMIOS NO OITAVO ANO DO ENSINO FUNDAMENTAL NA CIDADE DE JANUÁRIA (MG). 2018. (Seminário)
 * XII Fórum de Ensino, Pesquisa, Extensão e Gestão. 2018. (Encontro)
+
 ### Organização de eventos, congressos, exposições e feiras
 * II Semana da Matemática do IFNMG. 2018. (Outro)
