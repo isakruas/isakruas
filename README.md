@@ -52,6 +52,11 @@ Toolchain for 8-bit AVR microcontrollers: language, compiler, emulators, and IDE
 | [iklab](https://github.com/isakruas/iklab) `Python` | Planning-first CLI agent powered by Granite 4.0-H-Tiny. |
 | [llama-model-converter](https://github.com/isakruas/llama-model-converter) `Python` | Converts Llama model weights to the Hugging Face format. |
 
+### Open-source contributions
+
+- [PeerDB #4365](https://github.com/PeerDB-io/peerdb/pull/4365) — fixed a ClickHouse normalization failure caused by case-sensitive handling of the `_peerdb_is_deleted` column. *(merged)*
+- [Mozilla bug 122752](https://bugzilla.mozilla.org/show_bug.cgi?id=122752) — implementing SOCKS5 username/password authentication (RFC 1929) in Firefox's networking core. *(in progress)*
+
 ---
 
 <sub>Background in Mathematics (IFNMG – Januária, 2016–2023); currently studying IT Management (PUCRS, 2025–2028). If my open-source work has been useful to you, you can support its maintenance through <a href="https://github.com/sponsors/isakruas">GitHub Sponsors</a>.</sub>
