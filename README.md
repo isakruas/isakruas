@@ -45,7 +45,7 @@ Toolchain for 8-bit AVR microcontrollers: language, compiler, emulators, and IDE
 | [cyone-assembly](https://github.com/isakruas/cyone-assembly) `Go` | Assembly language targeting the Cyone Kernel on 8-bit microcontrollers. |
 | [avr-modular-system](https://github.com/isakruas/avr-modular-system) `C` | Modular firmware architecture for AVR. |
 
-### Other
+### AI and machine learning
 
 | Project | Description |
 | :--- | :--- |
