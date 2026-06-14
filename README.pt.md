@@ -1,3 +1,5 @@
+[English](README.md) · **Português** · [Español](README.es.md)
+
 Analista de Infraestrutura na [Pontotel](https://www.pontotel.com.br/). Radioamador licenciado, [PU3IAR](https://id.qsl.br/op/PU3IAR). Brasil.
 
 [isaklab.com](https://isaklab.com) · [LinkedIn](https://www.linkedin.com/in/isakruas/) · [Email](mailto:isakruas@gmail.com) · [GitHub Sponsors](https://github.com/sponsors/isakruas)
