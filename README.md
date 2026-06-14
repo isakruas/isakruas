@@ -1,10 +1,10 @@
-Infrastructure Analyst at [Pontotel](https://www.pontotel.com.br/). Licensed radio amateur, [PU3IAR](https://id.qsl.br/). Brazil.
+Infrastructure Analyst at [Pontotel](https://www.pontotel.com.br/). Licensed radio amateur, [PU3IAR](https://id.qsl.br/op/PU3IAR). Brazil.
 
-[LinkedIn](https://www.linkedin.com/in/isakruas/) · [Email](mailto:isakruas@gmail.com) · [GitHub Sponsors](https://github.com/sponsors/isakruas)
+[isaklab.com](https://isaklab.com) · [LinkedIn](https://www.linkedin.com/in/isakruas/) · [Email](mailto:isakruas@gmail.com) · [GitHub Sponsors](https://github.com/sponsors/isakruas)
 
 I work on cloud infrastructure: Kubernetes and Helm, CI/CD pipelines, infrastructure as code with Terraform, database administration, and observability with Sentry, Prometheus, and Grafana.
 
-Outside of work I maintain open-source projects in cryptography, digital radio, and embedded systems.
+Outside of work I maintain open-source projects in cryptography, digital radio, and embedded systems. I write about them at [isaklab.com](https://isaklab.com).
 
 ```text
 Infrastructure  Kubernetes · Helm · Terraform · GCP · CI/CD · Prometheus · Grafana · Sentry
